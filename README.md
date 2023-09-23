@@ -12,8 +12,7 @@ $$ Bohemian =
 $$
 
 Where $A$ and $B$ are sampled independently from a uniform distribution between $0$ and $1$. let's call this distribution $X$. We have:
-$$
-A = (7 + 9j) * X - (3 + 5j) \\
+$$ A = (7 + 9j) * X - (3 + 5j) \\
 B = (7 + 9j) * X - (3 + 5j)
 $$
 
