@@ -16,11 +16,11 @@ $$A = (7 + 9j) * X - (3 + 5j)$$
 
 $$B = (7 + 9j) * X - (3 + 5j)$$
 
-Visualizing the eigen values of this matrix is interesting! You can see a sample result with $NUM\_SAMPLES = 50$ below:
+Visualizing the eigen values of this matrix is interesting! You can see a sample result with $NUM_SAMPLES = 50$ below:
 
 ![Example 1](plots/Example_1.png)
 
-Also the result with $NUM\_SAMPLES = 100$ is:
+Also the result with $NUM_SAMPLES = 100$ is:
 
 ![Example 2](plots/Example_2.png)
 
