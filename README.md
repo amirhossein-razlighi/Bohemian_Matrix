@@ -34,7 +34,7 @@ Visualizing the eigen values of this matrix is interesting! You can see a sample
 
 ![Example 1](plots/Example_1.png)
 
-Also the result with $NUM\_SAMPLES = 100$ is:
+Also the result with $NUM\\_SAMPLES = 100$ is:
 
 ![Example 2](plots/Example_2.png)
 
