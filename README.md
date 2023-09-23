@@ -16,6 +16,20 @@ $$ A = (7 + 9j) * X - (3 + 5j) \\
 B = (7 + 9j) * X - (3 + 5j)
 $$
 
+## Creating the environment
+First of all, you need to create a virtual environment and install the requirements. You can do this by running the following commands:
+
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+and then install the dependencies, simply by:
+```
+pip install -r requirements.txt
+```
+and finally, open and run the notebook (`main.ipynb`).
+
+## Visualizations
 Visualizing the eigen values of this matrix is interesting! You can see a sample result with $NUM\_SAMPLES = 50$ below:
 
 ![Example 1](plots/Example_1.png)
