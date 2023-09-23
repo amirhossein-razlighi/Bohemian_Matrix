@@ -12,9 +12,9 @@ $$ Bohemian =
 $$
 
 Where $A$ and $B$ are sampled independently from a uniform distribution between $0$ and $1$. let's call this distribution $X$. We have:
-$$ A = (7 + 9j) * X - (3 + 5j) \\
-B = (7 + 9j) * X - (3 + 5j)
-$$
+$$A = (7 + 9j) * X - (3 + 5j)$$
+
+$$B = (7 + 9j) * X - (3 + 5j)$$
 
 ## Creating the environment
 First of all, you need to create a virtual environment and install the requirements. You can do this by running the following commands:
